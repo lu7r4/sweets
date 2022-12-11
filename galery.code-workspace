@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../../../Downloads/marathon-urok-1"
+		},
+		{
+			"path": "../../../../../Downloads/marathon-urok-2"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "galery"
+	}
+}
